@@ -1,6 +1,8 @@
 # VegetableShop
 # Đây là project java-web 
-# Project bao gồm 2 role: admin và user
+# Project bao gồm 2 role: 
+1. admin 
+2. user
 # Các chức năng chính trong project: 
 1. Validation 
 2. Login (Logout + welcome) 
